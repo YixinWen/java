@@ -2,6 +2,7 @@ package OOP.demo6;
 /**
  * @author YixinWen
  */
+
 //抽象类的所有方法都必须继承它的子类,都必须要实现它的方法
 //abstract 抽象类 extends 单继承  (接口可以多继承)
 public  abstract class Action {
