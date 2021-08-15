@@ -1,0 +1,8 @@
+作用:
+    1.约束
+    2.定义方法,让不同的人实现
+    3.接口不能实例化,接口中没有构造方法
+    4.可以实现多个接口
+    5.必须重写接口方法 implements
+    6.public abstract
+    6.public static final
