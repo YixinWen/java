@@ -8,7 +8,7 @@ package Thread;
  */
 /**
  * @Author YixinWen
- * @Date 2021/8/22 6:11
+ * @Date 2021/8/24 1:24
  **/
 
 
@@ -63,6 +63,4 @@ class WebDownloader {
             System.out.println("IO异常,downloader方法异常");
         }
     }
-
-
 }
