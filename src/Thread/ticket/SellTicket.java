@@ -6,6 +6,7 @@ package Thread.ticket;
  * 使用多线程,模拟三个窗口同时售票 100张
  * 问题:hread方式 Runnable 都会超卖
  **/
+
 public class SellTicket {
     public static void main(String[] args) {
 //        SellTicketThread sellTicketThread01 = new SellTicketThread();
