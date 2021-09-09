@@ -1,3 +1,5 @@
 # Project exclude paths
-/out/
-
+.idea
+.gitignore
+README.md
+untitled.iml
